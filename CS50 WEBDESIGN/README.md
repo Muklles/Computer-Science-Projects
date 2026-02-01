@@ -4,7 +4,7 @@ Projects developed as part of the CS50W: Web Programming with Python and JavaScr
 
 ## Project List
 
-  [Search PROJECT 0](./CS50%20WEBDESIGN/Search%20PROJECT%200)
+  [Search PROJECT 0](/CS50%20WEBDESIGN/Search%20PROJECT%200)
   
   A project focused on building efficient search and query functionalities.
   What I learned:
