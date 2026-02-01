@@ -4,7 +4,7 @@ Projects developed as part of the CS50: Introduction to Computer Science course.
 
 ## Project List
 
-### [Week 0: Scratch](/CS50/Week%200-Scratch)
+### [Week 0: Scratch](/CS50/Scratch%20PROJETO%200.sb3)
 
 A project introducing programming concepts using Scratch, a visual programming language.
 
