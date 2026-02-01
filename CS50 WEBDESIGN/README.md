@@ -13,19 +13,19 @@ Projects developed as part of the CS50W: Web Programming with Python and JavaScr
     - Optimized data handling with appropriate data structures
     - Learned to integrate front-end search forms with back-end processing
   
-    [Wiki PROJECT 1](/CS50%20WEBDESIGN/Wiki%20PROJECT%201)
+  [Wiki PROJECT 1](CS50%20WEBDESIGN/Wiki%20PROJECT%201)
   
-    A wiki-style web application for collaborative content creation.
-    **What I learned:**    
-      - Developed CRUD operations (Create, Read, Update, Delete)
-      - Implemented user authentication and session management
-      - Worked with Django framework and SQLite database
-      - Learned about templates, forms, and routing in web applications
+  A wiki-style web application for collaborative content creation.
+  **What I learned:**    
+    - Developed CRUD operations (Create, Read, Update, Delete)
+    - Implemented user authentication and session management
+    - Worked with Django framework and SQLite database
+    - Learned about templates, forms, and routing in web applications
   
-    [Commerce PROJECT 2](/CS50%20WEBDESIGN/Commerce%20PROJECT%202)
-    An e-commerce platform with product listing, shopping cart, and checkout features.
-    **What I learned:**
-      - Built a complete front-end and back-end integration
-      - Managed state and user sessions
-      - Applied payment gateway integration basics
-      - Improved understanding of responsive design and UX principles
+  [Commerce PROJECT 2](/CS50%20WEBDESIGN/Commerce%20PROJECT%202)
+  An e-commerce platform with product listing, shopping cart, and checkout features.
+  **What I learned:**
+    - Built a complete front-end and back-end integration
+    - Managed state and user sessions
+    - Applied payment gateway integration basics
+    - Improved understanding of responsive design and UX principles
