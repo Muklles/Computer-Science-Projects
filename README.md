@@ -12,7 +12,7 @@ Each folder in this repository corresponds to a different project. Inside each f
 
 ### Project List
 
-#### CS50W Projects (Web Design)(./CS50%20WEBDESIGN)
+#### [CS50W Projects (Web Design)](./CS50%20WEBDESIGN)
 
 Projects developed as part of the CS50W: Web Programming with Python and JavaScript course.
 
