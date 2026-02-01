@@ -16,7 +16,7 @@ A project introducing programming concepts using Scratch, a visual programming l
 
 ---
 
-### [Week 1: C Basics](/CS50/Week%201-C-Basics)
+### [Week 1: C Basics](/CS50/PROJETO%201)
 
 Projects focused on learning C programming fundamentals through practical exercises.
 
